@@ -1,9 +1,8 @@
 #Tablero{
-    display: flex;
-    flex-wrap: wrap;
-    width: 99%;
-    height: 98%;
-    position:absolute;
-    justify-content: space-around;
-    background-color: #1a1b1b;
+    display:flex;
+    background-color:#F0F0F0;
+    align-self: center;
+    align-items: center;
+    justify-content:center;
+    text-align: center;
 }

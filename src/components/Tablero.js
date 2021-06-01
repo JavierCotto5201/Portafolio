@@ -1,12 +1,13 @@
 import React from "react";
 import "./Tablero.css";
-import Calculadora from "./Calculadora";
+import Listado from './Listado'
+
 
 export default class Tablero extends React.Component {
   render() {
     return (
         <div id="Tablero">
-          <Calculadora></Calculadora>
+          <Listado></Listado>
         </div>     
     );
   }
