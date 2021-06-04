@@ -23,6 +23,9 @@ export default class navbar extends React.Component {
             <li className="nav-item">
               <a className="nav-link" href="https://open.spotify.com/artist/5n65pgef4hFl8yPfEd5yT0?si=rpLRgidvR4m9MfXybdzCPw&utm_source=whatsapp" target="_blank">Spotify</a>
             </li>
+            <li className="nav-item">
+              <a className="nav-link disabled">JAVIER ALEJANDRO COTTO ARGUETA</a>
+            </li>
           </ul>
         </div>
       </nav>
